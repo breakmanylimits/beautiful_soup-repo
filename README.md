@@ -1,4 +1,4 @@
 # Demo
 
-Web scraping to save time and get notification
+Web scraping to save time and get notifications!
 
